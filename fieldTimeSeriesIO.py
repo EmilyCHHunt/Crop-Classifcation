@@ -1,5 +1,4 @@
 #####
-# Author: Joseph Metcalfe
 # Creation Date: 06/11/2023
 # Purpose: Inputting Planet .tif files and outputting saved .npy files of each field and it's layers
 #####
