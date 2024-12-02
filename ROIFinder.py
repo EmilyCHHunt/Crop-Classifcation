@@ -1,5 +1,4 @@
 #####
-# Author: Joseph Metcalfe
 # Creation Date: 13/11/2023
 # Purpose: Finding the largest square in all fields in the dataset
 #####
