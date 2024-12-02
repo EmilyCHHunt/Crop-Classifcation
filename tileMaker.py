@@ -1,5 +1,4 @@
 #####
-# Author: Joseph Metcalfe
 # Creation Date: 16/11/2023
 # Purpose: Taking the outputs of ROIFinder and fieldTimeSeriesIO to create a balanced dataset of usable tiles for train/test
 #####
